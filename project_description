@@ -5,3 +5,5 @@ but he can just interact with the contents of the chefs (orders,
 rating , feedbacks, review, payment online) and finally the 
 accounts under type shipper who receive the accepted orders by 
 his boss to prepare them
+used techs:
+laravel+jwt for auth+mysql
